@@ -7,7 +7,6 @@ ftp-credentials.js
 # ----------------------
 /node_modules
 /bower_components
-/dist
 
 # Log Files
 # ----------------------
